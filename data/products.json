@@ -1,0 +1,302 @@
+[
+  {
+    "product_id": 1,
+    "product_name": "Laptop Gaming",
+    "category": "Phụ kiện",
+    "price": 12095853.0
+  },
+  {
+    "product_id": 2,
+    "product_name": "Tai nghe Bluetooth",
+    "category": "Điện thoại",
+    "price": 29360364.0
+  },
+  {
+    "product_id": 3,
+    "product_name": "Bàn phím cơ",
+    "category": "Mạng",
+    "price": 19903230.0
+  },
+  {
+    "product_id": 4,
+    "product_name": "Chuột không dây",
+    "category": "Laptop",
+    "price": 6356517.0
+  },
+  {
+    "product_id": 5,
+    "product_name": "Màn hình 4K",
+    "category": "Laptop",
+    "price": 28058533.0
+  },
+  {
+    "product_id": 6,
+    "product_name": "Điện thoại Samsung",
+    "category": "Laptop",
+    "price": 9345764.0
+  },
+  {
+    "product_id": 7,
+    "product_name": "iPhone 15",
+    "category": "Phụ kiện",
+    "price": 1558079.0
+  },
+  {
+    "product_id": 8,
+    "product_name": "iPad Pro",
+    "category": "Âm thanh",
+    "price": 20110826.0
+  },
+  {
+    "product_id": 9,
+    "product_name": "Loa JBL",
+    "category": "Laptop",
+    "price": 5060756.0
+  },
+  {
+    "product_id": 10,
+    "product_name": "Webcam HD",
+    "category": "Phụ kiện",
+    "price": 24345367.0
+  },
+  {
+    "product_id": 11,
+    "product_name": "Ổ cứng SSD",
+    "category": "Phụ kiện",
+    "price": 25367777.0
+  },
+  {
+    "product_id": 12,
+    "product_name": "RAM 16GB",
+    "category": "Màn hình",
+    "price": 10195724.0
+  },
+  {
+    "product_id": 13,
+    "product_name": "Card màn hình RTX",
+    "category": "Âm thanh",
+    "price": 24117132.0
+  },
+  {
+    "product_id": 14,
+    "product_name": "CPU Intel i9",
+    "category": "Mạng",
+    "price": 12427374.0
+  },
+  {
+    "product_id": 15,
+    "product_name": "Mainboard ASUS",
+    "category": "Laptop",
+    "price": 2393054.0
+  },
+  {
+    "product_id": 16,
+    "product_name": "Balo laptop",
+    "category": "Mạng",
+    "price": 14476199.0
+  },
+  {
+    "product_id": 17,
+    "product_name": "Cáp sạc USB-C",
+    "category": "Laptop",
+    "price": 10389186.0
+  },
+  {
+    "product_id": 18,
+    "product_name": "Hub USB",
+    "category": "Màn hình",
+    "price": 28947345.0
+  },
+  {
+    "product_id": 19,
+    "product_name": "Đèn LED bàn làm việc",
+    "category": "Màn hình",
+    "price": 20695737.0
+  },
+  {
+    "product_id": 20,
+    "product_name": "Giá đỡ laptop",
+    "category": "Phụ kiện",
+    "price": 2539061.0
+  },
+  {
+    "product_id": 21,
+    "product_name": "Ghế gaming",
+    "category": "Màn hình",
+    "price": 20100646.0
+  },
+  {
+    "product_id": 22,
+    "product_name": "Bàn gaming",
+    "category": "Âm thanh",
+    "price": 6792900.0
+  },
+  {
+    "product_id": 23,
+    "product_name": "Tay cầm Xbox",
+    "category": "Phụ kiện",
+    "price": 21507786.0
+  },
+  {
+    "product_id": 24,
+    "product_name": "Máy in laser",
+    "category": "Điện thoại",
+    "price": 17620314.0
+  },
+  {
+    "product_id": 25,
+    "product_name": "Scanner tài liệu",
+    "category": "Điện thoại",
+    "price": 11521660.0
+  },
+  {
+    "product_id": 26,
+    "product_name": "Máy chiếu mini",
+    "category": "Điện thoại",
+    "price": 27156637.0
+  },
+  {
+    "product_id": 27,
+    "product_name": "Loa Bluetooth mini",
+    "category": "Âm thanh",
+    "price": 12272760.0
+  },
+  {
+    "product_id": 28,
+    "product_name": "Đồng hồ thông minh",
+    "category": "Điện thoại",
+    "price": 10187882.0
+  },
+  {
+    "product_id": 29,
+    "product_name": "Vòng đeo tay thể thao",
+    "category": "Phụ kiện",
+    "price": 3470285.0
+  },
+  {
+    "product_id": 30,
+    "product_name": "Tai nghe có dây",
+    "category": "Laptop",
+    "price": 2316586.0
+  },
+  {
+    "product_id": 31,
+    "product_name": "Microphone podcast",
+    "category": "Âm thanh",
+    "price": 6437734.0
+  },
+  {
+    "product_id": 32,
+    "product_name": "Capture card",
+    "category": "Điện thoại",
+    "price": 362522.0
+  },
+  {
+    "product_id": 33,
+    "product_name": "Router WiFi 6",
+    "category": "Âm thanh",
+    "price": 25607293.0
+  },
+  {
+    "product_id": 34,
+    "product_name": "Modem ADSL",
+    "category": "Mạng",
+    "price": 20505667.0
+  },
+  {
+    "product_id": 35,
+    "product_name": "Switch mạng",
+    "category": "Phụ kiện",
+    "price": 2030280.0
+  },
+  {
+    "product_id": 36,
+    "product_name": "Cáp HDMI 4K",
+    "category": "Màn hình",
+    "price": 13230310.0
+  },
+  {
+    "product_id": 37,
+    "product_name": "Bộ chuyển đổi VGA",
+    "category": "Âm thanh",
+    "price": 9408019.0
+  },
+  {
+    "product_id": 38,
+    "product_name": "Pin dự phòng 20000mAh",
+    "category": "Mạng",
+    "price": 23102309.0
+  },
+  {
+    "product_id": 39,
+    "product_name": "Sạc không dây",
+    "category": "Phụ kiện",
+    "price": 5131935.0
+  },
+  {
+    "product_id": 40,
+    "product_name": "Ốp lưng điện thoại",
+    "category": "Mạng",
+    "price": 3329007.0
+  },
+  {
+    "product_id": 41,
+    "product_name": "Dán màn hình",
+    "category": "Màn hình",
+    "price": 9862180.0
+  },
+  {
+    "product_id": 42,
+    "product_name": "Túi chống sốc laptop",
+    "category": "Màn hình",
+    "price": 29296198.0
+  },
+  {
+    "product_id": 43,
+    "product_name": "Bộ vệ sinh máy tính",
+    "category": "Màn hình",
+    "price": 2276272.0
+  },
+  {
+    "product_id": 44,
+    "product_name": "Keo tản nhiệt",
+    "category": "Điện thoại",
+    "price": 18249840.0
+  },
+  {
+    "product_id": 45,
+    "product_name": "Quạt tản nhiệt CPU",
+    "category": "Màn hình",
+    "price": 25580180.0
+  },
+  {
+    "product_id": 46,
+    "product_name": "Case máy tính ATX",
+    "category": "Laptop",
+    "price": 22973935.0
+  },
+  {
+    "product_id": 47,
+    "product_name": "Nguồn máy tính 750W",
+    "category": "Laptop",
+    "price": 29800974.0
+  },
+  {
+    "product_id": 48,
+    "product_name": "UPS lưu điện",
+    "category": "Laptop",
+    "price": 13492811.0
+  },
+  {
+    "product_id": 49,
+    "product_name": "Màn hình phụ 24 inch",
+    "category": "Laptop",
+    "price": 2056760.0
+  },
+  {
+    "product_id": 50,
+    "product_name": "Bàn phím không dây",
+    "category": "Phụ kiện",
+    "price": 1499351.0
+  }
+]
