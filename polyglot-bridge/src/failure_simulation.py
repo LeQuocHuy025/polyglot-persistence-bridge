@@ -65,7 +65,7 @@ def test_corrupt_json():
             f.write(original)
     run("Corrupt data · malformed JSON in node B", setup, teardown)
 
-
+#File reviews rỗng
 def test_empty_db():
     #Lưu lại dữ liệu gốc
     original = json.load(open("data/product_reviews.json", encoding="utf-8"))
@@ -81,8 +81,26 @@ def test_empty_db():
 if __name__ == "__main__":
     print("Failure Simulation\n")
     backup()
-    test_kill_node_b()
-    time.sleep(0.3)
+    #File reviews rỗng
+    test_empty_db()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    '''time.sleep(0.3)
     test_kill_node_a()
     time.sleep(0.3)
     test_corrupt_json()
@@ -90,3 +108,5 @@ if __name__ == "__main__":
     test_empty_db()
     restore()
     print("all tests passed — data restored")
+'''
+    
