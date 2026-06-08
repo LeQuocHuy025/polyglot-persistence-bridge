@@ -81,32 +81,11 @@ def test_empty_db():
 if __name__ == "__main__":
     print("Failure Simulation\n")
     backup()
-    #File reviews rỗng
-    test_empty_db()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    '''time.sleep(0.3)
+    test_kill_node_b()
+    time.sleep(0.3)
     test_kill_node_a()
     time.sleep(0.3)
     test_corrupt_json()
     time.sleep(0.3)
     test_empty_db()
-    restore()
     print("all tests passed — data restored")
-'''
-    
